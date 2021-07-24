@@ -1,0 +1,24 @@
+export default data=[{
+  id:"1",
+  image:"https://i.imgur.com/WaZxrEe.jpg",
+  name:"Sofa",
+  price:"$1000"
+},
+{
+  id:"2",
+  image:"https://images.unsplash.com/photo-1544457070-4cd773b4d71e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZ1cm5pdHVyZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80g",
+  name:"Sofa",
+  price:"$1000"
+},
+{
+  id:"3",
+  image:"https://media.architecturaldigest.com/photos/5f4e9c54072307c75638c0f1/1:1/w_1280%2Cc_limit/Screen%252520Shot%2525202020-09-01%252520at%2525203.08.43%252520PM.png",
+  name:"Sofa",
+  price:"$1000"
+},
+{
+  id:"4",
+  image:"https://i.imgur.com/WaZxrEe.jpg",
+  name:"Sofa",
+  price:"$1000"
+}]
